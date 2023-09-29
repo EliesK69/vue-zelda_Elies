@@ -15,7 +15,6 @@
                             <RouterLink to="/monster" class="nav-link link text-black text-primary display-7"> Les Monstres </RouterLink>  
                         </li>
                       </ul>                    
-                    <div class="navbar-buttons align-center mbr-section-btn"><a class="btn btn-primary display-4" href="index.html#form02-8">CONTACT US</a></div>
                 </div>
             </div>
         </nav>
